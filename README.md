@@ -37,7 +37,7 @@ El mercado del arte se remonta a periodos anteriores a la baja edad media (s. XI
 
 El primer NFT surgió en 2014 cuando aún no se había acuñado el término NFT (2017). La obra de Kevin McCoy, *Quantum*, fue la primera obra en ser asociada a un certificado de propiedad digital mediante blockchain y fue vendida por 1,47 millones de dólares: 
 
-![Quantum](https://cdni.rt.com/files/2021.11/original/61a61d0420302714673ef735.gif) 
+![Quantum](https://cdn.decrypt.co/resize/1400/wp-content/uploads/2021/08/quantum-gif.gif) 
 
 Puede parecernos absurdo y unas cantidades de dinero desorbitadas el precio que se está otorgando a estas obras digitales, pero seguramente también se pensó con las obras de arte que pueden estar colgadas en un museo o una copia de ella en el salón de nuestra propia casa. El valor de los NFT viene dado por un conjunto de personas que creen que tiene dicho valor y que en un futuro aún será mayor.
 
